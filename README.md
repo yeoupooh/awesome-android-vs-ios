@@ -1,7 +1,7 @@
 # Awesome Android vs. iOS
 
 | Category | Sub-Category | Android | iOS |
-| - | - | - | - |
+| --- | --- | --- | --- |
 | Design | Awesome | Material | [Material](https://github.com/cjwirth/awesome-ios-ui#material-design) |
 | Animation and Transitions | | | [Animation and Transitions](https://github.com/cjwirth/awesome-ios-ui#animations-and-transitions) |
 | Notification and Alerts | | | [Notification and Alerts](https://github.com/cjwirth/awesome-ios-ui#notifications-and-alerts) |

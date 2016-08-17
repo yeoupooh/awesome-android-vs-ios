@@ -13,6 +13,8 @@
 | Database | | SQLite | Core Data |
 | | Awesome | | [Core Data](https://github.com/vsouza/awesome-ios#core-data)|
 | Graphics | | | [Graphics](https://github.com/vsouza/awesome-ios#graphics)|
+| ffmpeg | | [compilation guide](https://trac.ffmpeg.org/wiki/CompilationGuide/Android), [ffmpeg4android](https://sourceforge.net/projects/ffmpeg4android/), [ffmpeg-android](https://github.com/Yelp/ffmpeg-android) | [ffmpeg-ios-build-script](https://github.com/kewlbear/FFmpeg-iOS-build-script), [ffmpeg-ios](https://github.com/chrisballinger/FFmpeg-iOS) |
+|  | naver | [how to build ffmpeg player for Android](http://d2.naver.com/helloworld/8794) | [how to build ffmpeg player for iOS](http://d2.naver.com/helloworld/1207) |
 | REST Client | | Retrofit2 | [RestKit](https://github.com/RestKit/RestKit)|
 | Testing | | | [Testing](https://github.com/vsouza/awesome-ios#testing) |
 | Analytics | | | [Analytics](https://github.com/vsouza/awesome-ios#analytics) |

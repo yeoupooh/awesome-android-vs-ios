@@ -3,7 +3,7 @@
 This is awesome comparison between Android and iOS.
 
 | Category | Sub-Category | Android | iOS | Both |
-| --- | --- | --- | --- | -- |
+| --- | --- | --- | --- | --- |
 | Design |  | Material | [Material](https://github.com/cjwirth/awesome-ios-ui#material-design) | |
 | [Reactive Programming](https://en.wikipedia.org/wiki/Reactive_programming) | | [RxAndroid](https://github.com/ReactiveX/RxAndroid) | [RxSwift](https://github.com/ReactiveX/RxSwift) | |
 | [Functional Reactive Programming](https://en.wikipedia.org/wiki/Functional_reactive_programming) | | | [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) | |
